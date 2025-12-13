@@ -1,0 +1,27 @@
+#core python
+pandas
+numpy
+scipy
+pyyaml
+nltk
+scikit-learn
+xgboost
+joblib
+gradio
+matplotlib
+seaborn
+plotly
+torch
+streamlit
+spacy
+graphviz
+transformers
+tqdm
+openpyxl
+streamlit
+torch
+transformers
+spacy
+scispacy
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_core_sci_sm-0.5.1.tar.gz
+google-generativeai
